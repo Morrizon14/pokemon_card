@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chikorita",
+    "description": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.", 
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png"
+  },
+  {
+    "name": "Bulbasaur",
+    "description": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "name": "Pikachu",
+    "description": "Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléctrica. Cuando se ve alguna baya chamuscada, es muy probable que sea obra de un Pikachu, ya que a veces no controlan la intensidad de la descarga.",
+    "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+  }
+]
